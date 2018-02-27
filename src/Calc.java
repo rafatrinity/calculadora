@@ -504,7 +504,7 @@ public class Calc extends javax.swing.JFrame implements Op{
 
     @Override
     public java.lang.String dividir(int a, int b) {
-        float z=a/b;
+        float z=(float) (1.0*a/b);
         String c = (z+"");
         return c;
     }
