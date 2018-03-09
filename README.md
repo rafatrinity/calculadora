@@ -10,8 +10,8 @@
 - [x] divisão. :heavy_division_sign:
 - [x] mumltiplicação. :heavy_multiplication_x:
 
-![print 02: :camera:](/src/img/img1.png)
-Format: ![Relação Proporcional]
+![print 02: :camera:](/src/img/img2.png)
 
 **gostou? então [siga-me :eyes:](http://github.com/rafatrinity)**
+
 **Dúvidas? pode perguntar no [linkedin :speech_balloon:](https://linkedin.com/rafatrinity)**
